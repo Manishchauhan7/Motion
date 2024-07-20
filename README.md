@@ -20,6 +20,7 @@ Motion Note-Taking App
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=61DAFB)
 ![Edgestore](https://img.shields.io/badge/Edgestore-000000?style=for-the-badge&logo=edgestore&logoColor=61DAFB)
 ![Trunk](https://img.shields.io/badge/Trunk-000000?style=for-the-badge&logo=trunk&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=61DAFB)
 
 
 
