@@ -12,5 +12,6 @@ Motion Note-Taking App
 
 ## Used Techstack 🔐🔑
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 13](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
 Next.js 13, Convex, Tailwind
 
