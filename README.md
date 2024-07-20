@@ -17,4 +17,7 @@ Motion Note-Taking App
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Edgestore](https://img.shields.io/badge/Edgestore-000000?style=for-the-badge&logo=edgestore&logoColor=white)
+![Trunk](https://img.shields.io/badge/Trunk-000000?style=for-the-badge&logo=trunk&logoColor=white)
 
