@@ -42,3 +42,31 @@ Motion Note-Taking App
 - Cover image of each document 🖼️
 - Recover deleted files 🔄📄
 
+## ⚙️ Installation of Motion Note-Taaking
+
+1. **Fork this repository:** Click the Fork button in the top-right corner of this page to fork the repository.
+2. **Clone the repository:**
+    ```bash
+   https://github.com/Manishchauhan7/Motion.git
+    ```
+
+3.**To Install all the dependencies**
+
+```bash
+npm install
+```
+
+4. **Start the frontend and backend servers:**  
+   Frontend:
+    ```bash
+    npm run dev
+    ```
+    Backend:
+    ```bash
+    npx convex dev
+    ```
+5. **Access the application:**
+   Open a browser and enter the following URL:
+    ```bash
+    http://localhost:3000/
+    ```
