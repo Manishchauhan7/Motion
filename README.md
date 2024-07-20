@@ -1,6 +1,6 @@
 Motion Note-Taking App
 
-## 💻 --Here is the glimpse of the Motion Note-Taking app
+## 💻 --Here is a glimpse of the Motion Note-Taking app
 
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t5.png)
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t1.png)
@@ -8,7 +8,7 @@ Motion Note-Taking App
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t3.png)
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t4.png)
 
-## 🚀🚀 You can see live preview of the Motion [here](https://motion-note-taking-flame.vercel.app/)
+## 🚀🚀 You can see the live preview of the Motion [here](https://motion-note-taking-flame.vercel.app/)
 
 ## Used Techstack 🔐🔑
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,7 +42,7 @@ Motion Note-Taking App
 - Cover image of each document 🖼️
 - Recover deleted files 🔄📄
 
-## ⚙️ Installation of Motion Note-Taaking
+## ⚙️ Installation of Motion Note-Taking
 
 1. **Fork this repository:** Click the Fork button in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
@@ -50,22 +50,25 @@ Motion Note-Taking App
    https://github.com/Manishchauhan7/Motion.git
     ```
 
-3.**To Install all the dependencies**
+3. **To Install all the dependencies**
 
 ```bash
 npm install
 ```
 
-4. **Start the frontend and backend servers:**  
-   Frontend:
-    ```bash
-    npm run dev
-    ```
-    Backend:
+4. **Set .env file:**
+   In the client and server directories rename the `.env.example` file to `.env` and set the following environment variables.
+   
+5. **Start the website servers:**  
+    Convex Server:
     ```bash
     npx convex dev
     ```
-5. **Access the application:**
+   Next Server:
+    ```bash
+    npm run dev
+    ```
+6. **Access the application:**
    Open a browser and enter the following URL:
     ```bash
     http://localhost:3000/
