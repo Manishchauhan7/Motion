@@ -1,1 +1,1 @@
-Note Taking App
+Motion Note Taking App
