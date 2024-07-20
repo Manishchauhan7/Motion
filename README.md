@@ -21,3 +21,24 @@ Motion Note-Taking App
 ![Edgestore](https://img.shields.io/badge/Edgestore-000000?style=for-the-badge&logo=edgestore&logoColor=61DAFB)
 ![Trunk](https://img.shields.io/badge/Trunk-000000?style=for-the-badge&logo=trunk&logoColor=61DAFB)
 
+
+
+## ✈✈✈✈ Features you will get ⭐⭐
+- Real-time database  🔗 
+- Authentication 🔐 
+- File upload 📩
+- File deletion 🥱
+- File replacement 🤐
+- Notion-style editor 📝 
+- Light and Dark mode 🌓
+- Infinite children documents 🌲
+- Trash can & soft delete 🗑️
+- Icons for each document (changes in real-time) 🌠
+- Expandable sidebar ➡️🔀⬅️
+- Full mobile responsiveness 📱
+- Publish your note to the web 🌐
+- Fully collapsable sidebar ↕️
+- Landing page 🛬
+- Cover image of each document 🖼️
+- Recover deleted files 🔄📄
+
