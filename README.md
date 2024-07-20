@@ -7,3 +7,5 @@ Motion Note-Taking App
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t2.png)
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t3.png)
 ![logo](https://github.com/Manishchauhan7/sampleimg/blob/main/t4.png)
+
+## 🚀🚀 You can see live preview of the Motion [here](https://motion-note-taking-flame.vercel.app/)
